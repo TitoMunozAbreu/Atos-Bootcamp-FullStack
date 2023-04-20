@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1SpringCore/Proyectos_Practicar/ProjectAnnotation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1SpringCore/Proyectos_Practicar/ProjectAnnotationDos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1SpringCore/Proyectos_Tareas/ProyectoGestionPedidos_annotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1SpringCore/Proyectos_Tareas/ProyectoJavaPuro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1SpringCore/Proyectos_Tutoriales/ProyectoSpringAnnotations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/1SpringCore/Proyectos_Tutoriales/ProyectoSpringUno" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2SpringMVC/Proyectos_Practicar/PruebaCarpetas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2SpringMVC/Proyectos_Practicar/SpringMVC_One" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2SpringMVC/Proyectos_Tutoriales/SpringBootOne" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2SpringMVC/Proyectos_Tutoriales/SpringBootTwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2SpringMVC/Proyectos_Tutoriales/SpringDataBinding" vcs="Git" />
+  </component>
+</project>

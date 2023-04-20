@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringDataBinding:war">
+    <output-path>$PROJECT_DIR$/2SpringMVC/Proyectos_Tutoriales/SpringDataBinding/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringDataBinding</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringDataBinding-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringDataBinding:war exploded" />
+    </root>
+  </artifact>
+</component>

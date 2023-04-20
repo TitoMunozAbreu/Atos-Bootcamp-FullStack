@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpringBootOne:war">
+    <output-path>$PROJECT_DIR$/2SpringMVC/Proyectos_Tutoriales/SpringBootOne/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>SpringBootOne</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="SpringBootOne-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="SpringBootOne:war exploded" />
+    </root>
+  </artifact>
+</component>
